@@ -1,0 +1,8 @@
+logs
+target
+*.log
+*.iml
+.idea
+.idea_modules
+RUNNING_PID
+build/

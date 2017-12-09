@@ -1,0 +1,4 @@
+
+GET   /                           com.github.example.MyController.index
+
+GET   /count                      com.github.example.MyController.count
